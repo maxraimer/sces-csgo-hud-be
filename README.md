@@ -1,4 +1,4 @@
-# SCES CS:GO Hud (React-app)
+# SCES CS:GO Hud (Backend)
 
 ## Recent updates:
 
