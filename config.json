@@ -1,0 +1,9 @@
+{
+	"enable-gsi-processing": true,
+	"gsi-verification-token": "SCES GSI",
+	"gsi-host-ip": "127.0.0.1",
+	"gsi-host-port": 3001,
+	"enable-log-processing": true,
+	"srcds-log-host-ip": "127.0.0.1",
+	"srcds-log-host-port": 3002
+}
